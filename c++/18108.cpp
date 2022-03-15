@@ -6,6 +6,6 @@ int main() {
 
 	cin >> y;
 
-	cout << y - 543; // 변환
+	cout << y - 543; // 변환!
 
 }
